@@ -1,0 +1,11 @@
+# Environment & secrets
+.env
+secrets/
+*.env
+
+# Data (bind mount / volume debugging artifacts, if any)
+data/
+
+# OS/editor junk
+.DS_Store
+*.swp
